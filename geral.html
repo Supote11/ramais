@@ -1,0 +1,124 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Ramais - Página 3</title>
+    <link rel="icon" type="image/png" href="Ícone de telefone clássico.png">
+    <style>
+    .logo{
+        position: fixed;
+        top: 100px;
+        left: 150px;
+        width: 90px;
+        height:auto;
+    }
+    table{
+        width:90%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    body{
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin:20px;
+        font-size: 30px;
+    }
+    th, td{
+        border: 1px solid #999;
+        padding:10px;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    th{
+        background-color: #d3d3d3;
+        font-weight: bold;
+    }
+    .search-container {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 100;
+    }
+    .search-container input[type="text"] {
+      padding: 8px 12px;
+      font-size: 20px;
+      border: 1px solid #0a0101;
+      border-radius: 10px;
+      width: 220px;
+    }
+    .pagination {
+        text-align: center;
+        margin: 30px 0;
+    }
+    .pagination a {
+        display: inline-block;
+        margin: 0 10px;
+        padding: 1px 3px;
+        background: #3f2c50;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    .pagination a.active {
+        background: #42d66e;
+    }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Pesquisar">
+    </div>
+    
+    <h1><img src="ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL - ESCURO (2).PNG" alt="Logo lista de ramais" width="450" height="70"></h1>
+
+    <div class="pagination">
+        <a href="index (2).html">SADS</a>
+        <a href="habt.html" >HABT</a>
+        <a href="geral.html" class="active">GERAL</a>
+    </div>
+
+    <table id="phoneTable">
+        <tr>
+            <th>equipamento</th>
+            <th>endereço</th>
+            <th>Telefone</th>
+            <th>Coordenador</th>
+        </tr>
+        
+        <tr>
+            <td>Cras Belval</td>
+            <td>Rua Casemiro de Abreu, 329 – Jd. Belval7</td>
+            <td>3164-9738</td>
+            <td>Fabiana Turina</td>
+        </tr>
+    </table>
+
+    <script>
+        // Script de pesquisa (mesmo da primeira página)
+        const searchInput = document.getElementById("searchInput");
+        const table = document.getElementById("phoneTable");
+        const rows = table.getElementsByTagName("tr");
+
+        searchInput.addEventListener("keyup", function () {
+            const filter = searchInput.value.toLowerCase();
+
+            for (let i = 1; i < rows.length; i++) {
+                const row = rows[i];
+                const cells = row.getElementsByTagName("td");
+                let found = false;
+
+                for (let j = 0; j < cells.length; j++) {
+                    const cellText = cells[j].textContent.toLowerCase();
+                    if (cellText.includes(filter)) {
+                        found = true;
+                        break;
+                    }
+                }
+
+                row.style.display = found ? "" : "none";
+            }
+        });
+    </script>
+
+</body>
+</html>
