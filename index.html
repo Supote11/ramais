@@ -1,64 +1,26 @@
-<html> 
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <title>Lista de Ramais</title>
-    <link rel="icon" type="image/png" href="Design_sem_nome__2_-removebg-preview.png">
-    <style>
-    .logo{
-        position: fixed;
-        top: 100px;
-        left: 150px;
-        width: 90px;
-        height:auto;
-    }
-    table{
-        width:90%;
-        border-collapse: collapse;
-        margin-top: 20px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    body{
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        margin:20px;
-        font-size: 30px;
-    }
-    th, td{
-        border: 1px solid #999;
-        padding:10px;
-        text-align: center;
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    }
-    th{
-        background-color: #d3d3d3;
-        font-weight: bold;
-    }
-    .search-container {
-      position: fixed;
-      top: 20px;
-      right: 20px;
-      z-index: 100;
-    }
-    .search-container input[type="text"] {
-      padding: 8px 12px;
-      font-size: 20px;
-      border: 1px solid #0a0101;
-      border-radius: 10px;
-      width: 220px;
-    }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#e6d5f4">
+<title>Ramais SADS | Diretório de contatos</title>
+<link rel="icon" type="image/png" href="Design_sem_nome__2_-removebg-preview.png">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="search-container">
-        <input type="text" id="searchInput" placeholder="Pesquisar">
-    </div>
-    
-
-    <h1><img src="ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL - ESCURO (2).PNG" alt="Logo lista de ramais" width="450"
-        height="70"></h1>
-
-        <table id="phoneTable">
+<header class="site-header">
+<div class="brand-row"><img src="ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL - ESCURO (2).PNG" alt="Assistência e Desenvolvimento Social"></div>
+<div class="page-intro"><h1>SADS</h1><p>Assistência e Desenvolvimento Social · Consulte ramais e contatos com rapidez.</p></div>
+<nav class="pagination" aria-label="Seções do diretório">
+<a href="index.html" class="active" aria-current="page">SADS</a>
+<a href="habt.html">Habitação</a>
+<a href="geral.html">Geral</a>
+</nav>
+</header>
+<main class="directory">
+<div class="toolbar"><div class="filter-controls"><label class="filter-field search-field">Pesquisar<div class="search-container"><input type="search" id="searchInput" placeholder="Nome, ramal ou setor" aria-label="Pesquisar na lista" autocomplete="off"></div></label><label class="filter-field">Piso<select id="floorFilter" aria-label="Filtrar por piso"><option value="">Todos os pisos</option></select></label><label class="filter-field">Departamento<select id="departmentFilter" aria-label="Filtrar por departamento"><option value="">Todos os departamentos</option></select></label></div><div class="result-count" id="resultCount" aria-live="polite"></div></div>
+<div class="table-card"><div class="table-scroll">
+<table id="phoneTable">
             <tr>
                 <th>Responsável</th>
                 <th>Ramal</th>
@@ -94,13 +56,13 @@
             <td>216</td>
             <td>Aluguel Social</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Aluguel Social-Técnico</td>
             <td>183</td>
             <td>Aluguel Social - Técnicos</td>
             <td>Térreo</td>
-        </tr>     
+        </tr>
         <tr>
             <td>Amanda</td>
             <td>205</td>
@@ -196,19 +158,19 @@
             <td>176</td>
             <td>Compras</td>
             <td>2º</td>
-        </tr> 
+        </tr>
          <tr>
             <td>cozinha-Refeitório</td>
             <td>125</td>
             <td>Cozinha refeitório</td>
             <td>2º</td>
-        </tr> 
+        </tr>
          <tr>
             <td>Cozinha/Projetos</td>
             <td>240</td>
             <td>Curso</td>
             <td>2º</td>
-        </tr> 
+        </tr>
          <tr>
             <td>Cristina</td>
             <td>168</td>
@@ -220,14 +182,14 @@
             <td>241</td>
             <td>SUAS-Conselho</td>
             <td>2º</td>
-        </tr>    
+        </tr>
         <tr>
             <td>Dani</td>
             <td>163</td>
             <td>Depósito</td>
             <td>Térreo</td>
-        </tr> 
-        
+        </tr>
+
         <tr>
             <td>Denise</td>
             <td>180</td>
@@ -239,45 +201,45 @@
             <td>102</td>
             <td>Telefonia</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
        <tr>
             <td>Deusdetti/Suelen</td>
             <td>243</td>
             <td>Núcleo de Moda</td>
             <td>1º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Divani/Benê</td>
             <td>103</td>
             <td>Recepção - Gabinete</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Dayana</td>
             <td>109</td>
             <td>Gabinete Secretária</td>
             <td>2º</td>
-        </tr> 
+        </tr>
 
              <tr>
             <td>Edson</td>
             <td>254</td>
             <td>Núcleo de Modas - Coordenação</td>
             <td>1º</td>
-        </tr> 
-            
+        </tr>
+
          <tr>
             <td>Eduardo Campos</td>
             <td>173</td>
             <td>SUAS - Prestação de contas </td>
             <td>2º</td>
-        </tr> 
+        </tr>
        <tr>
             <td>Eduardo Vaz</td>
             <td>193</td>
             <td>Suas - CadÚnico - Vigilância - Cad.Brasil</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Eliane/Virgínia</td>
             <td>156</td>
@@ -289,33 +251,33 @@
             <td>141</td>
             <td>SUAS - Prestação de contas</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Elisangela</td>
             <td>167</td>
             <td>Admnistração-Apoio Administrativo</td>
             <td>2º</td>
-        </tr> 
+        </tr>
 
       <tr>
             <td>Eloá</td>
             <td>258</td>
             <td>Contrato Gestão</td>
             <td>2º</td>
-        </tr>  
-            
+        </tr>
+
        <tr>
             <td>Elisangela(Eli)</td>
             <td>225</td>
             <td>Núcleo de Modas - Coordenação</td>
             <td>1º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Elizama</td>
             <td>212</td>
             <td>Gabinete da Pres.FSSB</td>
             <td>2º</td>
-        </tr>  
+        </tr>
        <tr>
             <td>Erica Dra.</td>
             <td>123</td>
@@ -327,13 +289,13 @@
             <td>210</td>
             <td>Compras</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Francisca</td>
             <td>200</td>
             <td>Proteção Social Básica</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Geane</td>
             <td>186</td>
@@ -345,13 +307,13 @@
             <td>184</td>
             <td>Recepção Térreo</td>
             <td>Térreo </td>
-        </tr>      
+        </tr>
        <tr>
             <td>Gilson</td>
             <td>117</td>
             <td>Suas-Recepção</td>
             <td>2º</td>
-        </tr>      
+        </tr>
         <tr>
             <td>Giovana</td>
             <td>155</td>
@@ -363,109 +325,109 @@
             <td>152</td>
             <td>Proteção Social Especial-Coordenação</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Grazi</td>
             <td>172</td>
             <td>Suas - Administrativo</td>
             <td>2º</td>
-        </tr> 
+        </tr>
             <tr>
             <td>Guarda Municipal</td>
             <td>222</td>
             <td>Guarita 1</td>
             <td>Térreo</td>
-        </tr>      
+        </tr>
         <tr>
             <td>Guilherme</td>
             <td>237</td>
             <td>SUAS-ADM/Recepção</td>
             <td>2º</td>
-        </tr>      
+        </tr>
       <tr>
             <td>Janaina</td>
             <td>214</td>
             <td>Suas - CadÚnico - Vigiância - Cad.Brasil</td>
             <td>2º</td>
-        </tr>        
+        </tr>
       <tr>
             <td>Joabe/Tiago/Elenilda</td>
             <td>146</td>
             <td>Almoxarifado</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
             <tr>
             <td>José</td>
             <td>217</td>
             <td>Contrato Gestão</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>kelly</td>
             <td>132</td>
             <td>Proteção Especial - Coordenação</td>
             <td>2º</td>
-        </tr> 
-      </tr>
+        </tr>
+        <tr>
             <td>Leando Dr.</td>
             <td>215</td>
             <td>Juridico Suas</td>
             <td>2º</td>
-        </tr>       
+        </tr>
         <tr>
             <td>Lucas</td>
             <td>101</td>
             <td>Déposito - Coordenação</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Lucas/Marcelo</td>
             <td>154</td>
             <td>Informática</td>
             <td>1º</td>
-        </tr> 
+        </tr>
       <tr>
             <td>Luciana</td>
             <td>211</td>
             <td>Contrato Gestão</td>
             <td>2º</td>
-        </tr>              
+        </tr>
         <tr>
             <td>Mari</td>
             <td>153</td>
             <td>Compras</td>
             <td>2º</td>
-        </tr> 
+        </tr>
          <tr>
             <td>Marcela</td>
             <td>203</td>
             <td>SUAS - Depto. Técnico - Assistente Social</td>
             <td>2º</td>
-        </tr> 
+        </tr>
       <tr>
             <td>Marcelo/Milton/Paulo</td>
             <td>232</td>
             <td>Depósito</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
     <tr>
             <td>Maria José</td>
             <td>191</td>
             <td>Telefonia</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
       <tr>
             <td>Maria Vicentina</td>
             <td>106</td>
             <td>SUAS - Prestação de contas</td>
             <td>2º</td>
-        </tr> 
+        </tr>
      <tr>
             <td>Mariana</td>
             <td>114</td>
             <td>SUAS - Coordenação</td>
             <td>2º</td>
-        </tr> 
+        </tr>
             <tr>
             <td>Marlene</td>
             <td>187</td>
@@ -477,13 +439,13 @@
             <td>236</td>
             <td>Aluguel Social</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
      <tr>
             <td>Meire</td>
             <td>245</td>
             <td>Eventos e Parcerias</td>
             <td>2º</td>
-        </tr> 
+        </tr>
             <tr>
             <td>Michele</td>
             <td>260 </td>
@@ -495,85 +457,85 @@
             <td>230</td>
             <td>Motoristas</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
        <tr>
             <td>Osvana</td>
             <td>235</td>
             <td>Atendimento - Coordenação</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
       <tr>
             <td>Paloma/Silvia</td>
             <td>158</td>
             <td>Atendimento Serviço Social</td>
             <td>Térreo</td>
-        </tr>   
+        </tr>
        <tr>
             <td>Patricia</td>
             <td>148</td>
             <td>Profesp Elite Aprendiz - Coordenação</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Paula Neto</td>
             <td>170</td>
             <td>Comunicação e Eventos</td>
             <td>2º</td>
-        </tr> 
+        </tr>
         <tr>
             <td>Priscila</td>
             <td>244</td>
             <td>Projetos-Fundo social</td>
             <td>2º</td>
-        </tr>  
+        </tr>
       <tr>
             <td>Recep.Projetos/Cursos</td>
             <td>199</td>
             <td>Dep.Projetos</td>
             <td>1º</td>
-        </tr>   
+        </tr>
         <tr>
             <td>Regina</td>
             <td>194</td>
             <td>Aluguel Social</td>
             <td>Térreo</td>
-        </tr>   
+        </tr>
         <tr>
             <td>Regina</td>
             <td>238</td>
             <td>Suas - Depto. Técnico</td>
             <td>2º</td>
-        </tr>  
+        </tr>
      <tr>
             <td>Renato Galvão</td>
             <td>250</td>
             <td>Secretario Adjunto</td>
             <td>2º</td>
-        </tr>  
+        </tr>
      <tr>
             <td>Renato/Mendes</td>
             <td>234</td>
             <td>Gabinete 1° Dama</td>
             <td>2º</td>
-        </tr>  
+        </tr>
      <tr>
             <td>Ricardo Santos</td>
             <td>228</td>
             <td>Acessoria</td>
             <td>2º</td>
-        </tr>  
+        </tr>
     <tr>
             <td>Ronaldo</td>
             <td>128</td>
             <td>Administração - Coordenação</td>
             <td>2º</td>
-        </tr>  
+        </tr>
      <tr>
             <td>Ronaldo/França/Paulo</td>
             <td>206</td>
             <td>Guarita</td>
             <td>Térreo</td>
-        </tr> 
+        </tr>
      <tr>
             <td>Rony</td>
             <td>259</td>
@@ -585,92 +547,85 @@
             <td>189</td>
             <td>Profesp Elite Aprendiz</td>
             <td>2º</td>
-        </tr>  
+        </tr>
       <tr>
             <td>Rose</td>
             <td>181</td>
             <td>Recursos Humanos</td>
             <td>2º</td>
-        </tr> 
+        </tr>
      <tr>
             <td>Roseli</td>
             <td>110</td>
             <td>SUAS - Prestação de contas - Supervisão</td>
             <td>2º</td>
-        </tr>  
+        </tr>
       <tr>
             <td>Samuel</td>
             <td>119</td>
             <td>SUAS - Administrativo</td>
             <td>2º</td>
-        </tr> 
+        </tr>
     <tr>
             <td>Shamira</td>
             <td>112</td>
             <td>Gabinete da Pres. FSSB</td>
             <td>2º</td>
-        </tr>  
+        </tr>
      <tr>
             <td>Shirlei</td>
             <td>231</td>
             <td>SUAS - Prestação decontas</td>
             <td>2º</td>
-        </tr>  
+        </tr>
      <tr>
             <td>Stefan Dr.</td>
             <td>252</td>
             <td>Procurador</td>
             <td>2º</td>
-        </tr>  
+        </tr>
     <tr>
             <td>Thais</td>
             <td>157</td>
             <td>SUAS - Prestação de contas</td>
             <td>2º</td>
-        </tr>  
+        </tr>
         <tr>
             <td>Tereza</td>
             <td>162</td>
             <td>Projetos</td>
             <td>1º</td>
-        </tr>    
+        </tr>
     <tr>
             <td>Tiago</td>
             <td>160</td>
             <td>Deposito</td>
             <td>Térreo</td>
-        </tr>          
+        </tr>
     <tr>
             <td>Vanessa</td>
             <td>122</td>
             <td>SUAS - Docs Gestão</td>
             <td>2º</td>
-        </tr>  
+        </tr>
          <tr>
             <td>Vanessa/Marcos</td>
             <td>256</td>
             <td>Ótica</td>
             <td>1º</td>
-        </tr>      
+        </tr>
         <tr>
             <td>Zigomar</td>
             <td>227</td>
             <td>Entrega de cestas - FS</td>
             <td>Térreo</td>
         </tr>
-            
-       
-       
-    
-             
-
-            <div style="text-align: center; margin: 30px 0;">
-        <a href="index.html" style="margin-right: 25px; padding: 1px 3px; background: #42d66e; color: white; text-decoration: none; border-radius: 5px;">SADS</a>
-        <a href="habt.html" style="margin-right: 25px; padding: 1px 3px; background: #3f2c50; color: white; text-decoration: none; border-radius: 5px;">HABT</a>
-        <a href="geral.html" style="padding: 1px 3px; background: #3f2c50; color: white; text-decoration: none; border-radius: 5px;">GERAL</a>        
-    </div>
-
-        <script src="script.js"></script>
+      </table>
+</div></div>
+<p class="empty-state" id="emptyState" hidden>Nenhum contato encontrado. Tente outra busca.</p>
+</main>
+<footer class="site-footer">Diretório de contatos · Consulte a equipe responsável para confirmar atualizações.</footer>
+<script src="script.js"></script>
 </body>
 
 </html>
