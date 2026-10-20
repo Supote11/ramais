@@ -7,12 +7,6 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Abner C",
-      "ramal": "12334",
-      "departamento": "Informática",
-      "piso": "1º Andar"
-    },
-    {
       "responsavel": "Aldir",
       "ramal": "133",
       "departamento": "Técnicos-SUAS",
@@ -596,12 +590,6 @@
     }
   ],
   "habitacao": [
-    {
-      "responsavel": "Abner C 2",
-      "ramal": "1234",
-      "departamento": "Informática 2",
-      "piso": "123"
-    },
     {
       "responsavel": "Acacio De Sousa Abreu Jr",
       "ramal": "207",
