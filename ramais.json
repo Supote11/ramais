@@ -61,6 +61,12 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Ana Paula",
+      "ramal": "112",
+      "departamento": "Gabinete",
+      "piso": "2º Andar"
+    },
+    {
       "responsavel": "Andréia Martins",
       "ramal": "219",
       "departamento": "Administração",
@@ -70,6 +76,12 @@
       "responsavel": "Anselmo/Miguel/Sergio",
       "ramal": "174",
       "departamento": "Manutenção",
+      "piso": "Térreo"
+    },
+    {
+      "responsavel": "Arthur",
+      "ramal": "159",
+      "departamento": "Deposito",
       "piso": "Térreo"
     },
     {
@@ -271,6 +283,12 @@
       "piso": "Térreo"
     },
     {
+      "responsavel": "Gessé / Elma",
+      "ramal": "184",
+      "departamento": "Recepção",
+      "piso": "Térreo"
+    },
+    {
       "responsavel": "Gessé/Janaina",
       "ramal": "184",
       "departamento": "Recepção Térreo",
@@ -319,6 +337,12 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Joabe/Marcelo/Helenilda",
+      "ramal": "146",
+      "departamento": "Almoxarifado",
+      "piso": "Térreo"
+    },
+    {
       "responsavel": "Joabe/Tiago/Elenilda",
       "ramal": "146",
       "departamento": "Almoxarifado",
@@ -365,6 +389,12 @@
       "ramal": "203",
       "departamento": "SUAS - Depto. Técnico - Assistente Social",
       "piso": "2º"
+    },
+    {
+      "responsavel": "Marcelo / Carioca",
+      "ramal": "232",
+      "departamento": "Deposito",
+      "piso": "Térreo"
     },
     {
       "responsavel": "Marcelo/Milton/Paulo",
@@ -493,10 +523,22 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Robson / Thomas",
+      "ramal": "163",
+      "departamento": "Deposito",
+      "piso": "Térreo"
+    },
+    {
       "responsavel": "Ronaldo",
       "ramal": "128",
       "departamento": "Administração - Coordenação",
       "piso": "2º"
+    },
+    {
+      "responsavel": "Ronaldo",
+      "ramal": "160",
+      "departamento": "Deposito",
+      "piso": "Térreo"
     },
     {
       "responsavel": "Ronaldo/França/Paulo",
@@ -667,6 +709,12 @@
       "ramal": "249",
       "departamento": "Comunicação/Gabinete",
       "piso": "2º"
+    },
+    {
+      "responsavel": "Daniela / Tiago",
+      "ramal": "198",
+      "departamento": "Atendimento",
+      "piso": "1º Andar"
     },
     {
       "responsavel": "Diengo Vinicius Madeira Moreno",
