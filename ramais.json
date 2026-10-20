@@ -85,12 +85,6 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Artur/Dani",
-      "ramal": "159",
-      "departamento": "Deposito",
-      "piso": "Térreo"
-    },
-    {
       "responsavel": "Atendimento",
       "ramal": "140",
       "departamento": "Atendimento Serviço Social",
@@ -167,12 +161,6 @@
       "ramal": "241",
       "departamento": "SUAS-Conselho",
       "piso": "2º"
-    },
-    {
-      "responsavel": "Dani",
-      "ramal": "163",
-      "departamento": "Depósito",
-      "piso": "Térreo"
     },
     {
       "responsavel": "Dayana",
@@ -289,12 +277,6 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Gessé/Janaina",
-      "ramal": "184",
-      "departamento": "Recepção Térreo",
-      "piso": "Térreo"
-    },
-    {
       "responsavel": "Gilson",
       "ramal": "117",
       "departamento": "Suas-Recepção",
@@ -338,12 +320,6 @@
     },
     {
       "responsavel": "Joabe/Marcelo/Helenilda",
-      "ramal": "146",
-      "departamento": "Almoxarifado",
-      "piso": "Térreo"
-    },
-    {
-      "responsavel": "Joabe/Tiago/Elenilda",
       "ramal": "146",
       "departamento": "Almoxarifado",
       "piso": "Térreo"
@@ -394,12 +370,6 @@
       "responsavel": "Marcelo / Carioca",
       "ramal": "232",
       "departamento": "Deposito",
-      "piso": "Térreo"
-    },
-    {
-      "responsavel": "Marcelo/Milton/Paulo",
-      "ramal": "232",
-      "departamento": "Depósito",
       "piso": "Térreo"
     },
     {
@@ -577,12 +547,6 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Shamira",
-      "ramal": "112",
-      "departamento": "Gabinete da Pres. FSSB",
-      "piso": "2º"
-    },
-    {
       "responsavel": "Shirlei",
       "ramal": "231",
       "departamento": "SUAS - Prestação decontas",
@@ -605,12 +569,6 @@
       "ramal": "157",
       "departamento": "SUAS - Prestação de contas",
       "piso": "2º"
-    },
-    {
-      "responsavel": "Tiago",
-      "ramal": "160",
-      "departamento": "Deposito",
-      "piso": "Térreo"
     },
     {
       "responsavel": "Vanessa",
@@ -798,12 +756,6 @@
       "responsavel": "Henrique Emanoel Simoes",
       "ramal": "192",
       "departamento": "Morar Bem",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Iara Francisco",
-      "ramal": "198",
-      "departamento": "Atendimento",
       "piso": "2º"
     },
     {
