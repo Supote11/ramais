@@ -61,12 +61,6 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Ana Paula",
-      "ramal": "112",
-      "departamento": "Gabinete",
-      "piso": "2º Andar"
-    },
-    {
       "responsavel": "Andréia Martins",
       "ramal": "219",
       "departamento": "Administração",
@@ -79,7 +73,7 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Arthur",
+      "responsavel": "Artur/Dani",
       "ramal": "159",
       "departamento": "Deposito",
       "piso": "Térreo"
@@ -163,10 +157,10 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Dayana",
-      "ramal": "109",
-      "departamento": "Gabinete Secretária",
-      "piso": "2º"
+      "responsavel": "Dani",
+      "ramal": "163",
+      "departamento": "Depósito",
+      "piso": "Térreo"
     },
     {
       "responsavel": "Denise",
@@ -193,6 +187,12 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Dayana",
+      "ramal": "109",
+      "departamento": "Gabinete Secretária",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Edson",
       "ramal": "254",
       "departamento": "Núcleo de Modas - Coordenação",
@@ -211,21 +211,27 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Eliane",
-      "ramal": "141",
-      "departamento": "SUAS - Prestação de contas",
-      "piso": "2º"
-    },
-    {
       "responsavel": "Eliane/Virgínia",
       "ramal": "156",
       "departamento": "Atendimento Serviçõ Social",
       "piso": "Térreo"
     },
     {
+      "responsavel": "Eliane",
+      "ramal": "141",
+      "departamento": "SUAS - Prestação de contas",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Elisangela",
       "ramal": "167",
       "departamento": "Admnistração-Apoio Administrativo",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Eloá",
+      "ramal": "258",
+      "departamento": "Contrato Gestão",
       "piso": "2º"
     },
     {
@@ -238,12 +244,6 @@
       "responsavel": "Elizama",
       "ramal": "212",
       "departamento": "Gabinete da Pres.FSSB",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Eloá",
-      "ramal": "258",
-      "departamento": "Contrato Gestão",
       "piso": "2º"
     },
     {
@@ -271,9 +271,9 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Gessé / Elma",
+      "responsavel": "Gessé/Janaina",
       "ramal": "184",
-      "departamento": "Recepção",
+      "departamento": "Recepção Térreo",
       "piso": "Térreo"
     },
     {
@@ -319,7 +319,7 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Joabe/Marcelo/Helenilda",
+      "responsavel": "Joabe/Tiago/Elenilda",
       "ramal": "146",
       "departamento": "Almoxarifado",
       "piso": "Térreo"
@@ -361,22 +361,22 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Mari",
+      "ramal": "153",
+      "departamento": "Compras",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Marcela",
       "ramal": "203",
       "departamento": "SUAS - Depto. Técnico - Assistente Social",
       "piso": "2º"
     },
     {
-      "responsavel": "Marcelo / Carioca",
+      "responsavel": "Marcelo/Milton/Paulo",
       "ramal": "232",
-      "departamento": "Deposito",
+      "departamento": "Depósito",
       "piso": "Térreo"
-    },
-    {
-      "responsavel": "Mari",
-      "ramal": "153",
-      "departamento": "Compras",
-      "piso": "2º"
     },
     {
       "responsavel": "Maria José",
@@ -493,22 +493,10 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Robson / Thomas",
-      "ramal": "163",
-      "departamento": "Deposito",
-      "piso": "Térreo"
-    },
-    {
       "responsavel": "Ronaldo",
       "ramal": "128",
       "departamento": "Administração - Coordenação",
       "piso": "2º"
-    },
-    {
-      "responsavel": "Ronaldo",
-      "ramal": "160",
-      "departamento": "Deposito",
-      "piso": "Térreo"
     },
     {
       "responsavel": "Ronaldo/França/Paulo",
@@ -547,6 +535,12 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Shamira",
+      "ramal": "112",
+      "departamento": "Gabinete da Pres. FSSB",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Shirlei",
       "ramal": "231",
       "departamento": "SUAS - Prestação decontas",
@@ -559,16 +553,22 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Thais",
+      "ramal": "157",
+      "departamento": "SUAS - Prestação de contas",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Tereza",
       "ramal": "162",
       "departamento": "Projetos",
       "piso": "1º"
     },
     {
-      "responsavel": "Thais",
-      "ramal": "157",
-      "departamento": "SUAS - Prestação de contas",
-      "piso": "2º"
+      "responsavel": "Tiago",
+      "ramal": "160",
+      "departamento": "Deposito",
+      "piso": "Térreo"
     },
     {
       "responsavel": "Vanessa",
@@ -597,141 +597,9 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Adriana Herman",
-      "ramal": "276",
-      "departamento": "Aluguel Social",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Ana Claudia",
-      "ramal": "138",
-      "departamento": "Cadastro",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Andreia Dos Santos",
-      "ramal": "208",
-      "departamento": "A.Social",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Antonio Alcides",
-      "ramal": "178",
-      "departamento": "Fiscalização",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Bianca De Santis",
-      "ramal": "242",
-      "departamento": "Morar Bem",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Brenda Lorrayne",
-      "ramal": "188",
-      "departamento": "RH",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Bruna Carvalho Tenorio Da Silva",
-      "ramal": "136",
-      "departamento": "Morar Bem",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Camila De Queiroz",
-      "ramal": "213",
-      "departamento": "Reurb",
-      "piso": "2º"
-    },
-    {
       "responsavel": "Carolina Cipolla Gerevini",
       "ramal": "248",
       "departamento": "Secretária Adjunta",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Claudia Cristina",
-      "ramal": "143",
-      "departamento": "A.Social",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Daiane Gonçalves",
-      "ramal": "143",
-      "departamento": "A.Social",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Daniel Cipolla",
-      "ramal": "249",
-      "departamento": "Comunicação/Gabinete",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Daniela / Tiago",
-      "ramal": "198",
-      "departamento": "Atendimento",
-      "piso": "1º Andar"
-    },
-    {
-      "responsavel": "Diengo Vinicius Madeira Moreno",
-      "ramal": "249",
-      "departamento": "Comunicação/Gabinete",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Erica Cristina",
-      "ramal": "247",
-      "departamento": "Reurb",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "estagiária",
-      "ramal": "188",
-      "departamento": "RH",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Estagiária",
-      "ramal": "138",
-      "departamento": "Cadastro",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Estagiarios",
-      "ramal": "161/276",
-      "departamento": "Administrativo",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Estagiários",
-      "ramal": "166",
-      "departamento": "Morar Bem",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Estagiários",
-      "ramal": "213",
-      "departamento": "Reurb",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Evely Rodrigues Ol. Salles",
-      "ramal": "149",
-      "departamento": "Administrativo",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Ezequias Ribeiro Da Silva",
-      "ramal": "136",
-      "departamento": "Morar Bem",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Felipe Dos Santos Brasil",
-      "ramal": "249",
-      "departamento": "Comunicação/Gabinete",
       "piso": "2º"
     },
     {
@@ -741,9 +609,27 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Gabriel Ishimaru",
-      "ramal": "134",
-      "departamento": "Reurb",
+      "responsavel": "Leandro De Carvalho Almeida",
+      "ramal": "229",
+      "departamento": "Assessoria Técnica",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Maria Marta Vicente",
+      "ramal": "171",
+      "departamento": "Assessoria Técnica",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Daniel Cipolla",
+      "ramal": "249",
+      "departamento": "Comunicação/Gabinete",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Diengo Vinicius Madeira Moreno",
+      "ramal": "249",
+      "departamento": "Comunicação/Gabinete",
       "piso": "2º"
     },
     {
@@ -753,27 +639,75 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Felipe Dos Santos Brasil",
+      "ramal": "249",
+      "departamento": "Comunicação/Gabinete",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Evely Rodrigues Ol. Salles",
+      "ramal": "149",
+      "departamento": "Administrativo",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Marcos Batistas Gouvea",
+      "ramal": "192",
+      "departamento": "Administrativo",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Adriana Herman",
+      "ramal": "276",
+      "departamento": "Aluguel Social",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Vitor Hugo Almeida Santana",
+      "ramal": "276",
+      "departamento": "Aluguel Social",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Estagiarios",
+      "ramal": "161/276",
+      "departamento": "Administrativo",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Henrique Emanoel Simoes",
       "ramal": "192",
       "departamento": "Morar Bem",
       "piso": "2º"
     },
     {
-      "responsavel": "Jessica De Freitas",
-      "ramal": "247",
-      "departamento": "Reurb",
+      "responsavel": "Suellen Ingrid Moreira Dos S.L.Lima",
+      "ramal": "166",
+      "departamento": "Morar Bem",
       "piso": "2º"
     },
     {
-      "responsavel": "Jessica Ragonha",
-      "ramal": "147",
-      "departamento": "Reurb",
+      "responsavel": "Ezequias Ribeiro Da Silva",
+      "ramal": "136",
+      "departamento": "Morar Bem",
       "piso": "2º"
     },
     {
-      "responsavel": "João Batista",
-      "ramal": "178",
-      "departamento": "Fiscalização",
+      "responsavel": "Bruna Carvalho Tenorio Da Silva",
+      "ramal": "136",
+      "departamento": "Morar Bem",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Suzana Satie Abe Cunha",
+      "ramal": "166",
+      "departamento": "Morar Bem",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Bianca De Santis",
+      "ramal": "242",
+      "departamento": "Morar Bem",
       "piso": "2º"
     },
     {
@@ -783,13 +717,61 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Julia Cunha",
-      "ramal": "165",
-      "departamento": "Cadastro",
+      "responsavel": "Lenadro Henrique",
+      "ramal": "242",
+      "departamento": "Morar Bem",
       "piso": "2º"
     },
     {
-      "responsavel": "Julio Cesar",
+      "responsavel": "Estagiários",
+      "ramal": "166",
+      "departamento": "Morar Bem",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Rubens Lopes",
+      "ramal": "120",
+      "departamento": "Pós Regularização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Rosangela Carvalho",
+      "ramal": "120",
+      "departamento": "Pós Regularização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Oswaldo Leite",
+      "ramal": "204",
+      "departamento": "Pós Regularização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Martha Maria",
+      "ramal": "204",
+      "departamento": "Pós Regularização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Marcel Kraide",
+      "ramal": "120/204",
+      "departamento": "Pós Regularização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Paulo Ribeiro",
+      "ramal": "178",
+      "departamento": "Fiscalização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Wladimir Simons",
+      "ramal": "178",
+      "departamento": "Fiscalização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Silvio Pereira",
       "ramal": "178",
       "departamento": "Fiscalização",
       "piso": "2º"
@@ -801,57 +783,39 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Julio Cesar",
+      "ramal": "178",
+      "departamento": "Fiscalização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "João Batista",
+      "ramal": "178",
+      "departamento": "Fiscalização",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Antonio Alcides",
+      "ramal": "178",
+      "departamento": "Fiscalização",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Larisa O de Jesus",
       "ramal": "188",
       "departamento": "RH",
       "piso": "2º"
     },
     {
-      "responsavel": "Leandro De Carvalho Almeida",
-      "ramal": "229",
-      "departamento": "Assessoria Técnica",
+      "responsavel": "Brenda Lorrayne",
+      "ramal": "188",
+      "departamento": "RH",
       "piso": "2º"
     },
     {
-      "responsavel": "Lenadro Henrique",
-      "ramal": "242",
-      "departamento": "Morar Bem",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Marcel Kraide",
-      "ramal": "120/204",
-      "departamento": "Pós Regularização",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Marcos Batistas Gouvea",
-      "ramal": "192",
-      "departamento": "Administrativo",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Maria Marta Vicente",
-      "ramal": "171",
-      "departamento": "Assessoria Técnica",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Mariellen Gomes",
-      "ramal": "134",
-      "departamento": "Reurb",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Martha Maria",
-      "ramal": "204",
-      "departamento": "Pós Regularização",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Mercedes Jardin",
-      "ramal": "182",
-      "departamento": "A.Social",
+      "responsavel": "estagiária",
+      "ramal": "188",
+      "departamento": "RH",
       "piso": "2º"
     },
     {
@@ -861,9 +825,69 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Oswaldo Leite",
-      "ramal": "204",
-      "departamento": "Pós Regularização",
+      "responsavel": "Tais Mendes",
+      "ramal": "221",
+      "departamento": "Cadastro",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Ana Claudia",
+      "ramal": "138",
+      "departamento": "Cadastro",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Julia Cunha",
+      "ramal": "165",
+      "departamento": "Cadastro",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Estagiária",
+      "ramal": "138",
+      "departamento": "Cadastro",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Jessica Ragonha",
+      "ramal": "147",
+      "departamento": "Reurb",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Camila De Queiroz",
+      "ramal": "213",
+      "departamento": "Reurb",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Erica Cristina",
+      "ramal": "247",
+      "departamento": "Reurb",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Estagiários",
+      "ramal": "213",
+      "departamento": "Reurb",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Gabriel Ishimaru",
+      "ramal": "134",
+      "departamento": "Reurb",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Jessica De Freitas",
+      "ramal": "247",
+      "departamento": "Reurb",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Mariellen Gomes",
+      "ramal": "134",
+      "departamento": "Reurb",
       "piso": "2º"
     },
     {
@@ -873,33 +897,21 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Paulo Ribeiro",
-      "ramal": "178",
-      "departamento": "Fiscalização",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Rosangela Carvalho",
-      "ramal": "120",
-      "departamento": "Pós Regularização",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Rubens Lopes",
-      "ramal": "120",
-      "departamento": "Pós Regularização",
-      "piso": "2º"
-    },
-    {
       "responsavel": "Sergio Baganha",
       "ramal": "185",
       "departamento": "Reurb",
       "piso": "2º"
     },
     {
-      "responsavel": "Silvio Pereira",
-      "ramal": "178",
-      "departamento": "Fiscalização",
+      "responsavel": "Andreia Dos Santos",
+      "ramal": "208",
+      "departamento": "A.Social",
+      "piso": "2º"
+    },
+    {
+      "responsavel": "Mercedes Jardin",
+      "ramal": "182",
+      "departamento": "A.Social",
       "piso": "2º"
     },
     {
@@ -909,39 +921,27 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Suellen Ingrid Moreira Dos S.L.Lima",
-      "ramal": "166",
-      "departamento": "Morar Bem",
+      "responsavel": "Daiane Gonçalves",
+      "ramal": "143",
+      "departamento": "A.Social",
       "piso": "2º"
     },
     {
-      "responsavel": "Suzana Satie Abe Cunha",
-      "ramal": "166",
-      "departamento": "Morar Bem",
+      "responsavel": "Claudia Cristina",
+      "ramal": "143",
+      "departamento": "A.Social",
       "piso": "2º"
     },
     {
-      "responsavel": "Tais Mendes",
-      "ramal": "221",
-      "departamento": "Cadastro",
+      "responsavel": "Iara Francisco",
+      "ramal": "198",
+      "departamento": "Atendimento",
       "piso": "2º"
     },
     {
       "responsavel": "Thiago Da Silva",
       "ramal": "179",
       "departamento": "Atendimento",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Vitor Hugo Almeida Santana",
-      "ramal": "276",
-      "departamento": "Aluguel Social",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Wladimir Simons",
-      "ramal": "178",
-      "departamento": "Fiscalização",
       "piso": "2º"
     }
   ],
