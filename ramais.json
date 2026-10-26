@@ -9,7 +9,7 @@
     {
       "responsavel": "Aldir",
       "ramal": "133",
-      "departamento": "Técnicos-SUAS",
+      "departamento": "SUAS - Técnicos",
       "piso": "2º"
     },
     {
@@ -153,7 +153,7 @@
     {
       "responsavel": "Damaris",
       "ramal": "241",
-      "departamento": "SUAS-Conselho",
+      "departamento": "SUAS - Conselho",
       "piso": "2º"
     },
     {
@@ -201,7 +201,7 @@
     {
       "responsavel": "Eduardo Vaz",
       "ramal": "193",
-      "departamento": "Suas - CadÚnico - Vigilância - Cad.Brasil",
+      "departamento": "SUAS - CadÚnico - Vigilância - Cad.Brasil",
       "piso": "2º"
     },
     {
@@ -219,7 +219,7 @@
     {
       "responsavel": "Elisangela",
       "ramal": "167",
-      "departamento": "Admnistração-Apoio Administrativo",
+      "departamento": "Administração - Apoio Administrativo",
       "piso": "2º"
     },
     {
@@ -273,7 +273,7 @@
     {
       "responsavel": "Gilson",
       "ramal": "117",
-      "departamento": "Suas-Recepção",
+      "departamento": "SUAS - Recepção",
       "piso": "2º"
     },
     {
@@ -291,7 +291,7 @@
     {
       "responsavel": "Grazi",
       "ramal": "172",
-      "departamento": "Suas - Administrativo",
+      "departamento": "SUAS - Administrativo",
       "piso": "2º"
     },
     {
@@ -303,13 +303,13 @@
     {
       "responsavel": "Guilherme",
       "ramal": "237",
-      "departamento": "SUAS-ADM/Recepção",
+      "departamento": "SUAS - ADM/Recepção",
       "piso": "2º"
     },
     {
       "responsavel": "Janaina",
       "ramal": "214",
-      "departamento": "Suas - CadÚnico - Vigiância - Cad.Brasil",
+      "departamento": "SUAS - CadÚnico - Vigiância - Cad.Brasil",
       "piso": "2º"
     },
     {
@@ -333,13 +333,13 @@
     {
       "responsavel": "Leando Dr.",
       "ramal": "215",
-      "departamento": "Juridico Suas",
+      "departamento": "SUAS - Juridico",
       "piso": "2º"
     },
     {
       "responsavel": "Lucas",
       "ramal": "101",
-      "departamento": "Déposito - Coordenação",
+      "departamento": "Depósito - Coordenação",
       "piso": "Térreo"
     },
     {
@@ -459,7 +459,7 @@
     {
       "responsavel": "Regina",
       "ramal": "238",
-      "departamento": "Suas - Depto. Técnico",
+      "departamento": "SUAS - Depto. Técnico",
       "piso": "2º"
     },
     {
@@ -495,7 +495,7 @@
     {
       "responsavel": "Ronaldo",
       "ramal": "160",
-      "departamento": "Deposito",
+      "departamento": "Depósito",
       "piso": "Térreo"
     },
     {
@@ -567,7 +567,7 @@
     {
       "responsavel": "Thomas / Arthur",
       "ramal": "159",
-      "departamento": "Deposito",
+      "departamento": "Depósito",
       "piso": "Térreo"
     },
     {
@@ -669,7 +669,7 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Diengo Vinicius Madeira Moreno",
+      "responsavel": "Diego Vinicius Madeira Moreno",
       "ramal": "249",
       "departamento": "Comunicação/Gabinete",
       "piso": "2º"
@@ -693,7 +693,7 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Estagiarios",
+      "responsavel": "Estagiários",
       "ramal": "161/276",
       "departamento": "Administrativo",
       "piso": "2º"
@@ -729,7 +729,7 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Fernada Mendes",
+      "responsavel": "Fernanda Mendes",
       "ramal": "226",
       "departamento": "Gabinete",
       "piso": "2º"
@@ -813,7 +813,7 @@
       "piso": "2º"
     },
     {
-      "responsavel": "Lenadro Henrique",
+      "responsavel": "Leandro Henrique",
       "ramal": "242",
       "departamento": "Morar Bem",
       "piso": "2º"
