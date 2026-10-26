@@ -61,6 +61,12 @@
       "piso": "2º"
     },
     {
+      "responsavel": "Ana Paula",
+      "ramal": "112",
+      "departamento": "Gabinete da Pres. FSSB",
+      "piso": "2º"
+    },
+    {
       "responsavel": "Andréia Martins",
       "ramal": "219",
       "departamento": "Administração",
@@ -532,12 +538,6 @@
       "responsavel": "Samuel",
       "ramal": "119",
       "departamento": "SUAS - Administrativo",
-      "piso": "2º"
-    },
-    {
-      "responsavel": "Shamira",
-      "ramal": "112",
-      "departamento": "Gabinete da Pres. FSSB",
       "piso": "2º"
     },
     {
