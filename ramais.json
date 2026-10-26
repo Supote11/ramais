@@ -31,7 +31,7 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Aluguel Social-Técnico",
+      "responsavel": "Aluguel Social - Técnico",
       "ramal": "183",
       "departamento": "Aluguel Social - Técnicos",
       "piso": "Térreo"
@@ -133,7 +133,7 @@
       "piso": "2º"
     },
     {
-      "responsavel": "cozinha-Refeitório",
+      "responsavel": "Cozinha-Refeitório",
       "ramal": "125",
       "departamento": "Cozinha refeitório",
       "piso": "2º"
@@ -261,7 +261,7 @@
     {
       "responsavel": "Geane",
       "ramal": "186",
-      "departamento": "Alugel Social",
+      "departamento": "Aluguel Social",
       "piso": "Térreo"
     },
     {
@@ -959,8 +959,8 @@
       "coordenador": "Paulo Henrique"
     },
     {
-      "equipamento": "CRAS Jardim Belva",
-      "endereco": "Rua Casemiro de Abreu, 329 – Jd. Belval7",
+      "equipamento": "CRAS Jardim Belval",
+      "endereco": "Rua Casemiro de Abreu, 329 – Jd. Belval",
       "telefone": "3164-9738",
       "coordenador": "Fabiana Turina"
     },
