@@ -259,7 +259,7 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Gessé/Janaina",
+      "responsavel": "Gessé/Elma",
       "ramal": "184",
       "departamento": "Recepção Térreo",
       "piso": "Térreo"
@@ -421,12 +421,6 @@
       "piso": "Térreo"
     },
     {
-      "responsavel": "Paloma/Silvia",
-      "ramal": "158",
-      "departamento": "Atendimento Serviço Social",
-      "piso": "Térreo"
-    },
-    {
       "responsavel": "Patricia",
       "ramal": "148",
       "departamento": "Profesp Elite Aprendiz - Coordenação",
@@ -515,6 +509,12 @@
       "ramal": "189",
       "departamento": "Profesp Elite Aprendiz",
       "piso": "2º"
+    },
+    {
+      "responsavel": "Rosangela",
+      "ramal": "158",
+      "departamento": "Atendimento Serviço Social",
+      "piso": "Térreo"
     },
     {
       "responsavel": "Rose",
