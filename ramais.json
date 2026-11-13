@@ -351,14 +351,8 @@
     {
       "responsavel": "Lucas",
       "ramal": "262",
-      "departamento": "TI",
+      "departamento": "TI/Informática",
       "piso": "1° andar"
-    },
-    {
-      "responsavel": "Lucas/Marcelo",
-      "ramal": "154",
-      "departamento": "Informática",
-      "piso": "1º"
     },
     {
       "responsavel": "Luciana",
@@ -371,6 +365,12 @@
       "ramal": "203",
       "departamento": "SUAS - Depto. Técnico - Assistente Social",
       "piso": "2º"
+    },
+    {
+      "responsavel": "Marcelo",
+      "ramal": "154",
+      "departamento": "TI/Informática",
+      "piso": "1º"
     },
     {
       "responsavel": "Marcelo/Milton/Paulo",
